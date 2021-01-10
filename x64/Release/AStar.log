@@ -1,0 +1,55 @@
+﻿  GameManager.cpp
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(63,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(63,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(63,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(63,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(74,32): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(74,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(74,52): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(74,52): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(74,64): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(74,64): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(74,72): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(74,72): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(86,32): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(86,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(86,52): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(86,52): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(86,65): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(86,65): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(86,75): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(86,75): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(108,10): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(112,10): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\GameSystems.h(257,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\GameManager.cpp(73,35): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\GameManager.cpp(74,35): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
+  Main.cpp
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(63,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(63,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(63,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(63,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(74,32): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(74,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(74,52): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(74,52): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(74,64): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(74,64): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(74,72): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(74,72): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(86,32): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(86,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(86,52): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(86,52): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(86,65): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(86,65): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(86,75): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(86,75): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(108,10): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\WindowResource.h(112,10): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+  Generating code
+  0 of 1844 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AStar.vcxproj -> C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\x64\Release\AStar.exe

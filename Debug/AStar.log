@@ -1,0 +1,19 @@
+﻿  EngineCore.cpp
+  InpuResource.cpp
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\InputResource.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  WindowResource.cpp
+  GameManager.cpp
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\ECS\ComponentList.h(5,1): error C2429: language feature 'nested-namespace-definition' requires compiler flag '/std:c++17'
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\ECS\ComponentManager.h(12,1): error C2429: language feature 'nested-namespace-definition' requires compiler flag '/std:c++17'
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\ECS\EntityManager.h(7,1): error C2429: language feature 'nested-namespace-definition' requires compiler flag '/std:c++17'
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\ECS\View.h(7,1): error C2429: language feature 'nested-namespace-definition' requires compiler flag '/std:c++17'
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\Timer.h(5,1): error C2429: language feature 'nested-namespace-definition' requires compiler flag '/std:c++17'
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\InputResource.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Main.cpp
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\ECS\ComponentList.h(5,1): error C2429: language feature 'nested-namespace-definition' requires compiler flag '/std:c++17'
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\ECS\ComponentManager.h(12,1): error C2429: language feature 'nested-namespace-definition' requires compiler flag '/std:c++17'
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\ECS\EntityManager.h(7,1): error C2429: language feature 'nested-namespace-definition' requires compiler flag '/std:c++17'
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\ECS\View.h(7,1): error C2429: language feature 'nested-namespace-definition' requires compiler flag '/std:c++17'
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\Timer.h(5,1): error C2429: language feature 'nested-namespace-definition' requires compiler flag '/std:c++17'
+C:\Users\theda\Desktop\Projects\C++\Snake-Astar\AStar\AStar\Light2D-main\Engine\Resources\InputResource.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
